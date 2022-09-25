@@ -1,31 +1,3 @@
-# Lista em Python
-# fatiamento
-# append, insert, pop, del, clear, extend, +
-# min, max
-# range
-
-# # l1 = [1, 2, 3]
-# l2 = [4, 5, 6]
-# # l1.extend(l2)
-# l2.insert(0, "banana")
-# print(l2)
-# l2.pop()
-# print(l2)
-#     0  1  2  3  4  5  6  7  8
-# l2 = [1, 2, 3, 4, 5, 6, 7, 8, 9]
-
-# print(max(l2))
-# print(min(l2))
-
-# l2 = list(range(0, 10))
-# print(l2)
-
-# l2 = ["string", True, 10, 10.3]
-
-# for elem in l2:
-#     print(f"O elem de {elem} é {type(elem)} e seu valor é {elem}")
-
-
 
 secreto = "perfume"
 digitadas = []
