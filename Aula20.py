@@ -1,4 +1,3 @@
-
 secreto = "perfume"
 digitadas = []
 chances = 3 
